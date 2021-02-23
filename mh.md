@@ -1,4 +1,8 @@
-# Battle for Mount Hyjal
+# Battle for Mount Hyjal (MH, Hyjal)
+
+## Attunement
+
+See guide [here](http://www.lurkerlounge.com/forums/thread-3517.html)
 
 ## Bosses
 
@@ -89,6 +93,6 @@ Stamina is desirable in this battle.
 
 **Grip of the Legion** (dispel quickly !)
 
-**Soul Charge**: don't die.
+**Soul Charge**: don\'t die.
 
 **Finger of Death**: at least one meelee.

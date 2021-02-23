@@ -1,5 +1,4 @@
-
-# Gruul's Lair
+# Gruul's Lair (Gruul)
 
 No attunement.
 

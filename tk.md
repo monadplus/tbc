@@ -1,4 +1,8 @@
-# Tempest Keep: The Eye
+# Tempest Keep: The Eye (TK)
+
+## Attunement
+
+See guide [here](https://www.youtube.com/watch?v=CW5H2zthr-Y)
 
 ## Bosses
 

@@ -1,4 +1,8 @@
-# Black Temple
+# Black Temple (BT)
+
+## Attunement
+
+Read a guide [here](https://wow.gamepedia.com/Black_Temple_attunement)
 
 ## Bosses
 
