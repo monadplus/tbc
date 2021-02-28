@@ -2,7 +2,7 @@
 
 10-man raid.
 
-Raid composition: 2 tanks, 3 healers, 5 dps (1 extra RDPS). At least 1 priest and warlock. A druid and shaman/paladin are also recommended.
+Raid composition: 2 tanks, 2-3 healers, 5-6 dps. At least 1 priest and warlock. A druid and shaman/paladin are also recommended. Paladin tank is great for trash mobs.
 
 Gear: Max level dungeon + Gruul's Lair/Magtheridon's Lair.
 
