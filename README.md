@@ -23,11 +23,11 @@
 
 ## Contributing
 
-Do you want to add more information to this guide? Did you find something incorrect or improvable ? Open an issue with the information [here](https://github.com/monadplus/tbc/issues).
+[Feel free to open an issue](https://github.com/monadplus/tbc/issues).
 
 ## Credit
 
-- warcrafttavern
-- wowwiki-archive
-- wowhead
-- Crix Gaming
+- www.warcrafttavern.com
+- www.wowwiki-archive.com
+- www.wowhead.com
+- Youtube (Crix Gaming)
