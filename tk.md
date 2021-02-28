@@ -21,7 +21,7 @@ At each platform switch, adds will spawn.
 
 Adds explode on death, stay away.
 
-__Flame Quills_**: flies in the middle of the room, no raid dmg, but tanks need to jump down and get ready to run back up.
+__Flame Quills__: flies in the middle of the room, no raid dmg, but tanks need to jump down and get ready to run back up.
 
 When she is about to die (explodes), move 20 yards away.
 
@@ -84,7 +84,7 @@ __Flamestrike__: move away
 
 __Mind Control__(quickly dispel): hunter dispel it with the bow.
 
-__Shock Barrier__nuke it down because you can't interrupt __Pyroblast__. __Pyroblast__: 60k dmg, must be absorbed by a tank. The second one must be interrupt (nuke down barrier before).
+__Shock Barrier__ : nuke it down because you can't interrupt __Pyroblast__. __Pyroblast__: 60k dmg, must be absorbed by a tank. The second one must be interrupt (nuke down barrier before).
 
 #### Phase 5
 

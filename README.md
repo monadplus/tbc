@@ -5,7 +5,7 @@
 - [Magtheridon's Lair](./mags.md)
 - [Serpentshrine Cavern](./ssc.md)
 - [Tempest Keep: The Eye](./tk.md)
-- [Battle for Mount Hyjal](./bt.md)
+- [Battle for Mount Hyjal](./mh.md)
 - [Black Temple](./bt.md)
 - [Sunwell Plateau](./swp.md)
 
